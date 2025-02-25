@@ -43,4 +43,3 @@
 ---
 
 **✨ La magia ocurre cuando comienzas a hacer realidad aquello que has imaginado.**
-```

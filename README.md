@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 ¡Hola! Soy Isaac Gallo</h1>
 <h3 align="center">🚀 Estudiante de Ingeniería en Computación apasionado por la IA, Desarrollo Web y Desarrollo de Software</h3>
 

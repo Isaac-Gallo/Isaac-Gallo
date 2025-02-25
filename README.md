@@ -19,8 +19,8 @@
 ### 🌱 **Aprendiendo**
 ```markdown
 - 🧠 Machine Learning y fundamentos de Deep Learning
-- ⚙️ Algoritmos Metaheurísticos (GA, PSO, SA)
-- 🔥 Desarrollo Full Stack con MERN Stack
+- ⚙️ Algoritmos Metaheurísticos
+- 🔥 Desarrollo Full Stack
 ```
 
 ### 💻 **Tecnologías Favoritas**

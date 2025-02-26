@@ -1,0 +1,6 @@
+main :-
+    write('Ingrese las variables X y Y (separadas por un punto y coma): '),
+    read(X), read(Y),
+    write('Variables ingresadas:'),
+    writeln(X),
+    writeln(Y).

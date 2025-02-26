@@ -1,0 +1,8 @@
+%Isaac Gallo - 221978566
+:- dynamic fac/2.
+
+fac(1, 1).
+fac(2, 2).
+fac(3, 6).
+
+

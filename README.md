@@ -8,7 +8,7 @@
 
 </div>
 
-![Banner Perfl](https://github.com/Isaac-Gallo/Isaac-Gallo/tree/main/Imagenes/banner.png)
+![Image](https://github.com/user-attachments/assets/dbbedb2e-a35c-4383-a8ec-5906119dd072)
 
 ---
 
